@@ -1,11 +1,12 @@
 /**
  * editor_plugin_src.js
  *
- * Copyright 2009, Moxiecode Systems AB
  * Released under LGPL License.
+ * Copyright (c) 1999-2015 Ephox Corp. All rights reserved
  *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
+ * License: http://www.tinymce.com/license
+ *
+ * Adapted for JCE 2.6.x
  */
 
 (function () {
