@@ -2,14 +2,14 @@
 A JCE Plugin for creating non-editable regions in editor content. Based on the TinyMCE Non-Editable plugin.
 
 ## Creating non-editable regions
-A non-editable region is defined as any content that is wrapped in a tag that contains a "mceNonEditable" class, eg:
+A non-editable region is defined as any content that is wrapped in a tag that contains a *mceNonEditable* class, eg:
 
 ```html
 <div class="mceNonEditable">
   <p>This paragraph cannot be edited</p>
 </div>
 ```
-Non-editable regions can contain editable content, by including a tag with a "mceEditable" class, eg:
+Non-editable regions can contain editable content, by including a tag with a *mceEditable* class, eg:
 
 ```html
 <p class="mceNonEditable">This text cannot be edited, but <span class="mceEditable">this text can.</span></p>
