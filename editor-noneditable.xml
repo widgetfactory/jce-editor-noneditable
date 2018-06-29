@@ -15,8 +15,8 @@
 	</files>
 	<params></params>
 	<languages folder="administrator/components/language/en-GB">
-		<language tag="en-GB">en-GB.plg_jce_editor_noneditable.ini</language>
-		<language tag="en-GB">en-GB.plg_jce_editor_noneditable.sys.ini</language>
+		<language tag="en-GB">en-GB.plg_jce_editor-noneditable.ini</language>
+		<language tag="en-GB">en-GB.plg_jce_editor-noneditable.sys.ini</language>
 	</languages>
 	<help></help>
 </extension>
