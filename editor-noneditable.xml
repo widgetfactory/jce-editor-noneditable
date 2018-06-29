@@ -10,11 +10,11 @@
 	<license>GNU/GPL Version 2 - http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<description>PLG_JCE_EDITOR_NONEDITABLE_XML_DESC</description>
 	<icon></icon>
-	<files>
+	<files folder="plugins/jce/editor-noneditable">
 		<file plugin="editor-noneditable">editor_plugin.js</file>
 	</files>
-	<params group="standard"></params>
-	<languages>
+	<params></params>
+	<languages folder="administrator/components/language/en-GB">
 		<language tag="en-GB">en-GB.plg_jce_editor_noneditable.ini</language>
 		<language tag="en-GB">en-GB.plg_jce_editor_noneditable.sys.ini</language>
 	</languages>
